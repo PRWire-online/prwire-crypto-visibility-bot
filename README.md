@@ -1,7 +1,7 @@
 # PRWire Crypto Visibility Bot 🤖🚀
 
 [![npm](https://img.shields.io/npm/v/@prwire-online/crypto-visibility-bot)](https://npmjs.com/package/@prwire-online/crypto-visibility-bot)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20847782.svg)](https://doi.org/10.5281/zenodo.20847782)
 
 An automated, high-performance backend intelligence agent engineered for Web3 and cryptocurrency landscapes. Tracks, audits, and analyzes the footprint of crypto press releases across digital media channels, search indexers, and generative AI discovery engines. Built by [PRWire.online](https://prwire.online) powered by BHMarketer.
 
@@ -127,7 +127,7 @@ Crypto PR Visibility · Web3 Press Release · Crypto Media Tracking · Index Mon
 | NPM | https://npmjs.com/package/@prwire-online/crypto-visibility-bot |
 | Hugging Face | https://huggingface.co/datasets/PRWire-online/crypto-visibility-benchmarks |
 | Kaggle | https://kaggle.com/datasets/prwireonline/crypto-visibility-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/20847782 |
 | Docs | https://prwire-crypto-visibility-bot.readthedocs.io |
 
 ## About PRWire.online
