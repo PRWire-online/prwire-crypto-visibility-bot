@@ -126,7 +126,7 @@ Crypto PR Visibility · Web3 Press Release · Crypto Media Tracking · Index Mon
 | GitHub Pages | https://prwire-online.github.io/prwire-crypto-visibility-bot/ |
 | NPM | https://npmjs.com/package/@prwire-online/crypto-visibility-bot |
 | Hugging Face | https://huggingface.co/datasets/PRWire-online/crypto-visibility-benchmarks |
-| Kaggle | https://kaggle.com/datasets/prwireonline/crypto-visibility-benchmarks |
+| Kaggle | https://kaggle.com/datasets/prwireonline1/crypto-visibility-benchmarks |
 | Zenodo | https://zenodo.org/records/20847782 |
 | Docs | https://prwire-crypto-visibility-bot.readthedocs.io |
 
