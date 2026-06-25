@@ -56,7 +56,7 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://kaggle.com/datasets/prwireonline/crypto-visibility-benchmarks",
+      "identifier": "https://kaggle.com/datasets/prwireonline1/crypto-visibility-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
