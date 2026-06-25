@@ -1,0 +1,21 @@
+id,pr_title,pr_type,index_tracking_score,algorithmic_visibility_score,entity_authority_score,backlink_quality_score,ai_discovery_score,distribution_reach_score,overall_visibility_score,priority_action,google_index,bing_index,chatgpt_discovery,perplexity_ai,google_ai_overviews,industry,notes
+1,Bitcoin ETF Approval News,Token Launch,88,75,92,82,65,95,83,AI Discovery,88,84,65,68,73,Crypto,High distribution authority
+2,DeFi Protocol Token Launch,DeFi,72,65,78,70,55,85,71,AI Discovery,72,68,55,58,62,DeFi,Strong entity presence
+3,NFT Marketplace Funding Round,NFT,65,58,70,62,45,78,63,AI Discovery,65,62,45,47,51,NFT,Needs AI optimization
+4,Web3 Gaming Partnership,Gaming,80,72,85,75,68,90,78,AI Discovery,80,76,68,71,77,Gaming,Excellent distribution
+5,Crypto Exchange Listing,Exchange,85,78,90,82,72,92,83,AI Discovery,85,81,72,76,81,Exchange,High visibility scores
+6,Blockchain Security Audit,Security,70,63,75,68,58,82,69,AI Discovery,70,67,58,61,66,Security,Good backlink quality
+7,Stablecoin Launch Announcement,Stablecoin,78,70,83,75,62,88,76,AI Discovery,78,74,62,65,70,Stablecoin,Strong index tracking
+8,DAO Governance Proposal,DAO,62,55,68,60,48,75,61,AI Discovery,62,59,48,50,54,DAO,At risk AI visibility
+9,Crypto Wallet Integration,Wallet,75,68,80,72,60,85,73,AI Discovery,75,71,60,63,68,Wallet,Healthy scores
+10,Layer 2 Protocol Update,L2,82,75,88,80,70,90,81,AI Discovery,82,78,70,74,79,Layer 2,Near excellent
+11,Metaverse Land Sale,Metaverse,68,62,73,65,52,80,67,AI Discovery,68,65,52,55,59,Metaverse,Moderate performance
+12,Crypto Derivatives Launch,Derivatives,78,72,83,76,65,87,77,AI Discovery,78,74,65,68,73,Derivatives,Good visibility
+13,Web3 Infrastructure Raise,Infrastructure,85,78,90,82,72,92,83,AI Discovery,85,81,72,76,81,Infrastructure,Strong funding coverage
+14,Cross-Chain Bridge Update,Bridge,72,65,78,70,58,83,71,AI Discovery,72,68,58,61,66,Bridge,Needs AI boost
+15,Crypto Compliance News,Compliance,80,74,85,78,68,88,79,AI Discovery,80,76,68,71,77,Compliance,Healthy scores
+16,Token Burn Announcement,Token,88,82,93,85,75,95,86,AI Discovery,88,84,75,79,85,Token,Excellent visibility
+17,Crypto Fund Launch,Fund,76,70,82,74,63,86,75,AI Discovery,76,72,63,66,71,Fund,Good overall
+18,Blockchain Patent Filing,Patent,70,64,76,68,55,80,69,AI Discovery,70,67,55,58,62,Patent,Moderate AI visibility
+19,Web3 Hackathon Results,Hackathon,65,58,70,62,48,78,64,AI Discovery,65,62,48,50,54,Hackathon,At risk scores
+20,Crypto Regulatory Update,Regulatory,82,76,88,80,70,90,81,AI Discovery,82,78,70,74,79,Regulatory,Strong compliance coverage
