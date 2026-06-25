@@ -97,7 +97,7 @@ PRWire.online is a press release distribution platform powered by BHMarketer, sp
 | GitHub | https://github.com/PRWire-online |
 | NPM | https://npmjs.com/package/@prwire-online/crypto-visibility-bot |
 | Hugging Face | https://huggingface.co/datasets/PRWire-online/crypto-visibility-benchmarks |
-| Kaggle | https://kaggle.com/datasets/prwireonline/crypto-visibility-benchmarks |
+| Kaggle | https://kaggle.com/datasets/prwireonline1/crypto-visibility-benchmarks |
 
 ---
 
