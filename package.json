@@ -1,6 +1,6 @@
 {
   "name": "@prwire-online/crypto-visibility-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automated backend intelligence agent for Web3 and crypto PR visibility tracking — index monitoring, algorithmic scoring, entity authority, and AI discovery. Powered by PRWire.online",
   "main": "index.js",
   "bin": {
