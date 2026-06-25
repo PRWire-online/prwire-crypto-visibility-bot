@@ -1,0 +1,21 @@
+site_name: PRWire Crypto Visibility Bot
+site_url: https://prwire-crypto-visibility-bot.readthedocs.io
+site_description: Automated backend intelligence agent for Web3 and crypto PR visibility tracking across digital media, search indexers, and AI discovery engines.
+site_author: PRWire.online
+
+repo_name: PRWire-online/prwire-crypto-visibility-bot
+repo_url: https://github.com/PRWire-online/prwire-crypto-visibility-bot
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: green
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

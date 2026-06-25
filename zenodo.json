@@ -1,0 +1,59 @@
+{
+  "title": "PRWire Crypto Visibility Bot",
+  "description": "Automated backend intelligence agent for Web3 and cryptocurrency PR visibility tracking. Tracks, audits, and analyzes the footprint of crypto press releases across digital media channels, search indexers, and generative AI discovery engines. Built by PRWire.online powered by BHMarketer.",
+  "creators": [
+    {
+      "name": "PRWire.online",
+      "affiliation": "BHMarketer"
+    }
+  ],
+  "keywords": [
+    "crypto PR visibility",
+    "Web3 press release",
+    "crypto media tracking",
+    "index monitoring",
+    "entity authority",
+    "AI discovery",
+    "algorithmic visibility",
+    "PRWire",
+    "BHMarketer",
+    "backlink quality",
+    "distribution reach"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/PRWire-online/prwire-crypto-visibility-bot",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://prwire.online",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://prwire.online/crypto-press-release/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@prwire-online/crypto-visibility-bot",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/PRWire-online/crypto-visibility-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/prwireonline/crypto-visibility-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

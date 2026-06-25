@@ -1,0 +1,37 @@
+{
+  "name": "@prwire-online/crypto-visibility-bot",
+  "version": "1.0.0",
+  "description": "Automated backend intelligence agent for Web3 and crypto PR visibility tracking — index monitoring, algorithmic scoring, entity authority, and AI discovery. Powered by PRWire.online",
+  "main": "index.js",
+  "bin": {
+    "crypto-visibility-bot": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crypto-pr-visibility",
+    "web3-press-release",
+    "crypto-media-tracking",
+    "index-monitoring",
+    "entity-authority",
+    "ai-discovery",
+    "algorithmic-visibility",
+    "prwire",
+    "bhmarketer",
+    "backlink-quality",
+    "distribution-reach",
+    "crypto-bot"
+  ],
+  "author": "PRWire.online powered by BHMarketer",
+  "license": "MIT",
+  "homepage": "https://prwire.online/crypto-press-release/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PRWire-online/prwire-crypto-visibility-bot"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

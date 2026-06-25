@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "PRWire Crypto Visibility Bot",
+  "description": "Automated backend intelligence agent for Web3 and crypto PR visibility tracking — index monitoring, algorithmic scoring, entity authority, and AI discovery.",
+  "url": "https://prwire.online/crypto-press-release/",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "PRWire.online powered by BHMarketer",
+    "url": "https://prwire.online",
+    "sameAs": [
+      "https://github.com/PRWire-online",
+      "https://npmjs.com/package/@prwire-online/crypto-visibility-bot",
+      "https://huggingface.co/datasets/PRWire-online/crypto-visibility-benchmarks",
+      "https://kaggle.com/datasets/prwireonline/crypto-visibility-benchmarks",
+      "https://prwire-online.github.io/prwire-crypto-visibility-bot/",
+      "https://prwire.online/crypto-press-release/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/PRWire-online/prwire-crypto-visibility-bot",
+  "keywords": [
+    "crypto PR visibility",
+    "Web3 press release",
+    "crypto media tracking",
+    "index monitoring",
+    "entity authority",
+    "AI discovery",
+    "algorithmic visibility",
+    "PRWire",
+    "BHMarketer",
+    "backlink quality"
+  ]
+}
